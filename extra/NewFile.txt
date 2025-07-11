@@ -1,0 +1,7 @@
+#Now Jackline is older!!!!
+#Mon May 12 01:14:05 JST 2025
+Age=30
+FirstName=Jackline
+LastName=Middleton
+SSN=207-81-2053
+School=NeoTech 
